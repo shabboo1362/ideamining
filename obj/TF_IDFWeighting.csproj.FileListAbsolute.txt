@@ -1,0 +1,7 @@
+C:\Users\sindi\Desktop\text1\tfidf_src\bin\Debug\TF_IDFWeighting.exe
+C:\Users\sindi\Desktop\text1\tfidf_src\bin\Debug\TF_IDFWeighting.pdb
+C:\Users\sindi\Desktop\text1\tfidf_src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sindi\Desktop\text1\tfidf_src\obj\Debug\TF_IDFWeighting.exe
+C:\Users\sindi\Desktop\text1\tfidf_src\obj\Debug\TF_IDFWeighting.pdb
+C:\Users\sindi\Desktop\text1\tfidf_src\obj\Debug\ServiceRanking.ideamining.resources
+C:\Users\sindi\Desktop\text1\tfidf_src\obj\Debug\TF_IDFWeighting.csproj.GenerateResource.Cache

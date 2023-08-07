@@ -1,0 +1,5 @@
+C:\Users\sindi\Desktop\text1\tfidf_src\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\sindi\Desktop\text1\tfidf_src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\sindi\Desktop\text1\tfidf_src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sindi\Desktop\text1\tfidf_src\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\sindi\Desktop\text1\tfidf_src\TestProject1\obj\Debug\TestProject1.pdb

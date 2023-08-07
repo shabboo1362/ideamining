@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TF_IDFWeighting">
+</Property><Property Name="Solution File" Value="C:\Users\sindi\Desktop\text1\tfidf_src\TF_IDFWeighting.sln">
+</Property><Property Name="Date" Value="Tuesday, July 05, 2011">
+</Property><Property Name="Time" Value="12:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TF_IDFWeighting.sln" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\TF_IDFWeighting.sln">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="TF_IDFWeighting.csproj" Description="Project file successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\TF_IDFWeighting.csproj">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="Class1.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="NGram.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\NGram.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="PorterStemmer.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\PorterStemmer.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="StopWordsHandler.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\StopWordsHandler.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="TFIDFMeasure.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\TFIDFMeasure.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="Tokeniser.cs" Description="File successfully backed up as C:\Users\sindi\Desktop\text1\tfidf_src\Backup\Tokeniser.cs">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="TF_IDFWeighting.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TF_IDFWeighting" Source="TF_IDFWeighting.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TF_IDFWeighting.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TF_IDFWeighting.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TF_IDFWeighting" Source="TF_IDFWeighting.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
